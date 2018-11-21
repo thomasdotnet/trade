@@ -1,0 +1,8 @@
+c:\Project\TD\TD\bin\Debug\TD.exe.config
+c:\Project\TD\TD\bin\Debug\TD.exe
+c:\Project\TD\TD\bin\Debug\TD.pdb
+c:\Project\TD\TD\obj\Debug\TD.csprojResolveAssemblyReference.cache
+c:\Project\TD\TD\obj\Debug\TD.Properties.Resources.resources
+c:\Project\TD\TD\obj\Debug\TD.csproj.GenerateResource.Cache
+c:\Project\TD\TD\obj\Debug\TD.exe
+c:\Project\TD\TD\obj\Debug\TD.pdb
